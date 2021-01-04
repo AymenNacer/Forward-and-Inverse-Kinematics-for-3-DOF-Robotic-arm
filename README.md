@@ -1,5 +1,5 @@
 # Forward-and-Inverse-Kinematics-for-3-DOF-Robotic-arm
-in this repo i connected 3 servo motors to arduino to build a robotic arm , then create 2 functions the first one is for forward kinematics which require x and y (end effector) and output the angles, for inverse functions it does the opposite, i have used the below equations and write them as code in arduino
+(Smart Methods Internship) in this repo i connected 3 servo motors to arduino to build a robotic arm , then create 2 functions the first one is for forward kinematics which require x and y (end effector) and output the angles, for inverse functions it does the opposite, i have used the below equations and write them as code in arduino
 
 Forward kinematics
 
